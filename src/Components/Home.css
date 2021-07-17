@@ -1,0 +1,8 @@
+ .mainLayout {
+    background-image: linear-gradient(to bottom, var(--pale-blue), rgba(241, 254, 254, 0));
+
+ }
+ .mainLayout .ant-layout-header{
+       padding: 0;
+       background-color: #ffff;
+ }

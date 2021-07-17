@@ -1,0 +1,11 @@
+.Read-More {
+    padding: 5px;
+    text-align: center;
+    color: #374b5c;
+  }
+  .Line {
+  width: 2.25rem;
+  height: 0;
+  margin: 1px 10px 0 80px;
+  border: solid 2px #00dbd0;
+  }

@@ -1,0 +1,135 @@
+  .front-image-grid , .front-image-grid1{
+    margin-top: 10%;
+  } 
+  /* .front-image-grid{
+    padding-left: 30%;
+  }  */
+
+  .image-grid ::after{
+    content: '';
+    display: table;
+    clear: both;
+ }
+  .image-grid-top{
+    /* width: 66%;
+    float: left;
+    margin-right: -100%;
+    position: relative;
+    z-index: 6; */
+    position:absolute;
+    top: 0%;
+    left: 0%;
+    z-index: 2;
+    
+  }
+  /* .image-size{
+    height: 200px;
+    width:200px;
+  } */
+  .image-grid-bottom1 {
+  width: 21.875rem;
+  height: 21.25rem;
+  padding: 4.029rem 4.081rem 4.063rem 4.125rem;
+  top: 0%;
+    left: 30%;
+    border: solid 3px #00dbd0;
+    position:absolute;
+  }
+  .image-grid-bottom {
+    width: 13.688rem;
+    height: 13.125rem;
+    position:absolute;
+    top: 14%;
+    left: 15%;
+    z-index: 1;
+  
+   }
+  .nature-grid , .proud-grid ,.sub-grid , .read-grid , .jane-grid{
+    text-align: center;
+  }
+  .explore {
+    width: 13.75rem;
+    height: 3.375rem;
+    margin: 2.188rem 21.5rem 7.188rem 0;
+    padding: 0.875rem 4rem 1rem 3rem;
+    border-radius: 10px;
+    color: #ffff;
+    font-size: medium;
+    background-color: #00dbd0;
+  }
+  .round img {
+    border-radius: 50%;
+    width:100px;
+    height:100px;
+  }
+  .rate{
+    color: #00dbd0;
+  }
+  .subscribe{
+    width: 10.438rem;
+    height: 3.5rem;
+    margin: 0;
+    padding: 1.313rem 2.844rem 1.5rem;
+    border-radius: 30px;
+    background-color: #00dbd0;
+  }
+  .email{
+  width: 15.25rem;
+  height: 3rem;
+  margin: 0;
+  font-family: LibreBaskerville;
+  text-align: center;
+  color: #374b5c;
+  }
+  .healthy{
+    font-family: LibreBaskerville;
+    font-size: 55px;
+    font-weight: bold;
+    font-size: 2.25rem;
+    font-weight: 100px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 35px;
+    text-align: left;
+    color: #374b5c;
+    }
+    .nature{
+      font-family: LibreBaskerville;
+      font-size: 55px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.32;
+      letter-spacing: normal;
+      text-align: left;
+      color: #374b5c;
+      }
+      .vegetable{
+        width: 24.313rem;
+        height: 3.375rem;
+        margin: 2.188rem 10.938rem 2.188rem 0;
+        font-family: LibreBaskerville;
+        font-size: 1.25rem;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.35;
+        letter-spacing: normal;
+        text-align: left;
+        color: #374b5c;
+      }
+      .back-image{
+        background-image: url('./asset/Group 134.png');
+      }
+      .mb-30{
+        margin-bottom: 5%;
+      }
+
+      .heading-text{
+        font-size: 30px;
+        color: #374b5c;
+      }
+      .para-text{
+        font-size: 15px;
+        color: #374b5c;
+      }

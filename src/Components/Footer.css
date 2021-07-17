@@ -1,0 +1,29 @@
+ .footer
+ {
+   background-image: url('./asset/Group 229.png');
+   color: #fff;
+   padding: 6%;
+  }
+  ul{
+    text-decoration: none;
+  }
+  hr{
+    width: 3.375rem;
+    height: 0;
+    margin: 0.895rem 1.094rem 1rem 0.094rem;
+    border: solid 2px #00dbd0;
+  }
+  .heading{
+    color: #fff;
+  }
+  .ant-col-6 {
+    display: block;
+    flex: 0 0 10%;
+    max-width: 25%;
+  }
+  .ant-layout-footer {
+    padding: 0px 0px;
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+    background: #f0f2f5;
+  }
